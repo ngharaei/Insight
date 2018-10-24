@@ -16,7 +16,7 @@ Figure 1: Percentage of obesity in the US counties plotted against percentage of
 This analysis showed that there is a positive correlation (Pearson correlation coefficient of ~ 0.3) between the percentage of underweight births (<2.5 kg) in each of the US counties and the percentage of obesity and diabetes in the same counties .
  
 
-<a href="http://tinypic.com?ref=5kkl5c" target="_blank"><img src="http://i63.tinypic.com/5kkl5c.png" border="0" alt="Image and video hosting by TinyPic"></a>
+<a href="http://tinypic.com?ref=2n1cenp" target="_blank"><img src="http://i68.tinypic.com/2n1cenp.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 Figure 2: Percentage of diabetes in the US counties plotted against percentage of underweight births (<2.5 kg) in the same counties.
 
 This further raised the question of whether populations with fetal malnutrition, indicated with Low Birth Weight, would have higher risk of other metabolic syndromes. Thus, I investigated correlation between Low Birth Weight (LBW) and frequency of other metabolic syndromes for which the data was available in this database, namely, High Blood Pressure and Coronary Heart Disease. I also invesitgated the correlation of LBW and non-metabolic diseases as negative control. 
