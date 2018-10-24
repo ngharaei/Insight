@@ -30,6 +30,8 @@ This analysis further supports the hypothesis that poor fetal nutrition (which i
 
 Low income could be a major factor contributing to fetal malnutrition. To investigate this, I plotted the percentage of pverty indicator as well as LBW across different US counties. 
 
+<a href="http://datawrapper.dwcdn.net/Y7iaS/2/" target="_blank"><img src="http://datawrapper.dwcdn.net/Y7iaS/2/" border="0" alt="Image and video hosting by TinyPic"></a>
+
 <iframe id="datawrapper-chart-Y7iaS" src="http://datawrapper.dwcdn.net/Y7iaS/2/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="400"></iframe>
 
 <iframe id="datawrapper-chart-Y7iaS" src="//datawrapper.dwcdn.net/Y7iaS/2/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["Y7iaS"]={},window.datawrapper["Y7iaS"].embedDeltas={"100":400,"200":400,"300":400,"400":400,"500":400,"700":400,"800":400,"900":400,"1000":400},window.datawrapper["Y7iaS"].iframe=document.getElementById("datawrapper-chart-Y7iaS"),window.datawrapper["Y7iaS"].iframe.style.height=window.datawrapper["Y7iaS"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["Y7iaS"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("Y7iaS"==b)window.datawrapper["Y7iaS"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
