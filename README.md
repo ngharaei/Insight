@@ -30,8 +30,14 @@ This analysis further supports the hypothesis that poor fetal nutrition (which i
 
 Low income could be a major factor contributing to fetal malnutrition. To investigate this, I plotted the percentage of pverty indicator as well as LBW across different US counties. 
 
-<script src="http://gist-it.appspot.com/http://datawrapper.dwcdn.net/Y7iaS/2/"></script>
-
+<html>
+<head>
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+</head>
+<body style="margin:0px;padding:0px;overflow:hidden">
+  <iframe src="//datawrapper.dwcdn.net/Y7iaS/2/" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;position:absolute;top:0px;left:0px;right:0px;bottom:0px" height="100%" width="100%"></iframe>
+</body>
+</html>
 
 <iframe id="datawrapper-chart-Y7iaS" src="http://datawrapper.dwcdn.net/Y7iaS/2/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="400"></iframe>
 
